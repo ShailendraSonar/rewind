@@ -824,3 +824,10 @@ h3 > a { color: inherit; }
   .footer-bottom .container { justify-content: space-between; }
 
 }
+
+@media (max-width: 580px){
+
+  .header-contacts{
+    display: none !important;
+  }
+}
